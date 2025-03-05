@@ -8,6 +8,7 @@ package org.example;
     private boolean isMarried;
     private int birthYear;
 
+
     public Person(String firstname, String lastName, int age) {
         this.firstname = firstname;
         this.lastName = lastName;
